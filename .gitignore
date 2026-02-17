@@ -1,0 +1,20 @@
+# ===============================
+# Build artifacts (from ./mk)
+# ===============================
+
+# Fortran object & module files
+make/*.o
+make/*.mod
+
+# Executables created by build
+bse_metisse
+sse_metisse
+popbin
+
+# Runtime / scratch files
+fort.*
+
+# ===============================
+# OS / editor junk
+# ===============================
+.DS_Store
