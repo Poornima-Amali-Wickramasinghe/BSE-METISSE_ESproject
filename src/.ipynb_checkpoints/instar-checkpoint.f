@@ -9,7 +9,7 @@
       integer i,j,ktype(0:14,0:14)
       common /TYPES/ ktype
 *
-*       Initialize stellar collision matrix.      
+*       Initialize stellar collision matrix.
 *
       ktype(0,0) = 1
       do 10 , j = 1,6
