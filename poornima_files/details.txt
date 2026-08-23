@@ -1,0 +1,10 @@
+1) Define the column names of the MESA output file : 
+
+columns = [
+    "Time",
+    "stellar_type_1","stellar_type_2","initial_mass_1","initial_mass_2", "current_mass_1","current_mass_2","log10_r_1","log10_r_2",
+    "R1/ROL1","R2/ROL2","log10_L_1","log10_L_2",
+    "spin_1","spin_2","mass_loss_rate_1","mass_loss_rate_2","convective_envelope_mass_1","convective_envelope_mass_2",
+    "envelope_radius_1","envelope_radius_2","sep_Rsun","ecc"]
+
+2) 
